@@ -1,0 +1,100 @@
+{
+    "name": "Next Caller",
+    "description": "Identify inbound phone numbers and increase sales conversion with accurate real-time caller data. Accurately detect phone spoofing fraud before you pickup the phone and route your inbound calls intelligently",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2468-next-caller.jpg",
+    "tags": [
+        "api provider",
+        "caller id",
+        "have api",
+        "have swagger",
+        "messages",
+        "networks",
+        "relative data",
+        "service api",
+        "target",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/next-caller\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "https:\/\/nextcaller.com\/documentation\/#\/authentication\/curl"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/nextcaller.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/nextcaller.com\/blog\/blog?format=RSS"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/next-caller"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/dev.nextcaller.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@nextcaller.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@nextcaller.com"
+        },
+        {
+            "type": "Error Codes",
+            "url": "https:\/\/nextcaller.com\/documentation\/#\/errors\/curl"
+        },
+        {
+            "type": "Facebook",
+            "url": "https:\/\/www.facebook.com\/Next.Caller1"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/nextcaller.com\/faq\/"
+        },
+        {
+            "type": "Google Plus",
+            "url": "https:\/\/plus.google.com\/+Nextcaller\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NextCallerAPI"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/2468-2019-09-04-04-26-08.json"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/nextcaller.com\/pricing\/"
+        },
+        {
+            "type": "Status",
+            "url": "http:\/\/status.nextcaller.com\/"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "https:\/\/dev.nextcaller.com\/terms\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nextcaller"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/nextcaller.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nextcaller.com"
+        }
+    ]
+}
